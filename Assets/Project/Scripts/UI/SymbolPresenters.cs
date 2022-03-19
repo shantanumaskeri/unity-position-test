@@ -1,7 +1,7 @@
 ﻿using JetBrains.Annotations;
 using UnityEngine.UI;
 
-namespace Project.UI
+namespace Project.Scripts.UI
 {
     public abstract class SymbolPresenter
     {

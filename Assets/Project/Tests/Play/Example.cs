@@ -1,7 +1,7 @@
 using System.Collections;
 using Cysharp.Threading.Tasks;
 using NUnit.Framework;
-using Project.UI;
+using Project.Scripts.UI;
 using UnityEngine.Networking;
 using UnityEngine.TestTools;
 using Zenject;

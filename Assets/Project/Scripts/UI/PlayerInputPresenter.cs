@@ -1,7 +1,7 @@
 ﻿using JetBrains.Annotations;
 using TMPro;
 
-namespace Project.UI
+namespace Project.Scripts.UI
 {
     [UsedImplicitly]
     public sealed class PlayerInputPresenter

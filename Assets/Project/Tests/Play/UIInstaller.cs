@@ -1,5 +1,5 @@
 ﻿using JetBrains.Annotations;
-using Project.UI;
+using Project.Scripts.UI;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;

@@ -3,7 +3,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using Zenject;
 
-namespace Project.UI
+namespace Project.Scripts.UI
 {
     internal sealed class UIInstaller : MonoInstaller<UIInstaller>
     {
